@@ -8,4 +8,4 @@ A Flutter note-taking app with Firebase.
 - Dark & Light mode
 
 ## Screenshots
-<img src="screenshots/home-empty" width="300">
+![Home Screen](assets/images/home-empty.png)
