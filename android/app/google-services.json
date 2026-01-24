@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705207258470",
+    "project_id": "cat-notebook",
+    "storage_bucket": "cat-notebook.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705207258470:android:b256bb3d4a2f681bbe8ca7",
+        "android_client_info": {
+          "package_name": "com.example.cat_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705207258470-ba31mfh89b5a98a51smepurrk3jqo169.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cat_notebook",
+            "certificate_hash": "3c97cbc35753a0cd582285ac3f3129be7f9af1f1"
+          }
+        },
+        {
+          "client_id": "705207258470-3rui8p83c1lqmb0v9rqg1c21coocciqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYIaPCVy4R38mv9TWI-q5HdLVaf3U90kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705207258470-3rui8p83c1lqmb0v9rqg1c21coocciqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
