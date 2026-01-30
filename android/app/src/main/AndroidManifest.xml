@@ -15,7 +15,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
     
     <application
-        android:label="cat_notebook"
+        android:label="Cat Note"
         android:name="${applicationName}"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/cat_icon">
